@@ -7,8 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
