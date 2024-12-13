@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,5 +74,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
