@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
