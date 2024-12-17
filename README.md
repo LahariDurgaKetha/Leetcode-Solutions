@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
