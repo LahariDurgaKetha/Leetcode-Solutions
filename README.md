@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
