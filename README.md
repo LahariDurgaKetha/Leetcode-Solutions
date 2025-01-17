@@ -138,4 +138,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
