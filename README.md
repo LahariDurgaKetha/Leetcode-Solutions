@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
