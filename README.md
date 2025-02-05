@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
