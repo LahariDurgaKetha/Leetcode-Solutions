@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0931-maximum-frequency-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
