@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Memoization
 |  |
 | ------- |
