@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3379-score-of-a-string](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
