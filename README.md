@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -183,4 +184,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
