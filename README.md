@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0931-maximum-frequency-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
@@ -219,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
