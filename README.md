@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -231,4 +233,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
