@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0782-jewels-and-stones](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
