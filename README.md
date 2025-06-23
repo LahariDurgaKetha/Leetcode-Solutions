@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 ## Recursion
 |  |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
