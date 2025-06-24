@@ -168,12 +168,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0112-path-sum) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
