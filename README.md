@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -251,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
