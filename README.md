@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0227-basic-calculator-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0782-jewels-and-stones](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0931-maximum-frequency-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0983-validate-stack-sequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0983-validate-stack-sequences) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
