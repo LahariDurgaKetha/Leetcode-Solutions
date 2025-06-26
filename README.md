@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Sorting
 |  |
