@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Backtracking
