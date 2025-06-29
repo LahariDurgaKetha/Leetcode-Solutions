@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
 ## Recursion
 |  |
 | ------- |
