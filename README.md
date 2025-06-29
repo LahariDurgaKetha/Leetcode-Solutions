@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
