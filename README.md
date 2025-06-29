@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
 | ------- |
