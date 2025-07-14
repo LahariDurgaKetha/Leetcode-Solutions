@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0782-jewels-and-stones](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0835-linked-list-components) |
 | [0931-maximum-frequency-stack](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Prefix Sum
 |  |
@@ -266,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/LahariDurgaKetha/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
